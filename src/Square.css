@@ -1,0 +1,11 @@
+.light {
+    width: 45px;
+    height: 45px;
+    background-color: rgba(237, 218, 185)
+}
+
+.dark {
+    width: 45px;
+    height: 45px;
+    background-color: rgba(174, 138, 105)
+}
